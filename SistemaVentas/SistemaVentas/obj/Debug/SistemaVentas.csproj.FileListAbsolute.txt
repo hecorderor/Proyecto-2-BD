@@ -1,0 +1,57 @@
+c:\users\nnn\documents\visual studio 2015\Projects\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+C:\Users\nnn\Documents\Visual Studio 2015\Projects\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+C:\Users\nnn\Documents\Visual Studio 2015\Projects\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+C:\Users\nnn\Documents\Visual Studio 2015\Projects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csprojResolveAssemblyReference.cache
+C:\Users\nnn\Documents\Visual Studio 2015\Projects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Clientes.resources
+C:\Users\nnn\Documents\Visual Studio 2015\Projects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.ConfirmarPedido.resources
+C:\Users\nnn\Documents\Visual Studio 2015\Projects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Facturacion.resources
+C:\Users\nnn\Documents\Visual Studio 2015\Projects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.RevisarPedido.resources
+C:\Users\nnn\Documents\Visual Studio 2015\Projects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.RegistrarPedido.resources
+C:\Users\nnn\Documents\Visual Studio 2015\Projects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.VentanaPrincipal.resources
+C:\Users\nnn\Documents\Visual Studio 2015\Projects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Properties.Resources.resources
+C:\Users\nnn\Documents\Visual Studio 2015\Projects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.GenerateResource.Cache
+C:\Users\nnn\Documents\Visual Studio 2015\Projects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+C:\Users\nnn\Documents\Visual Studio 2015\Projects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+C:\Users\nnn\documents\visual studio 2015\Projects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Catalogo.resources
+C:\Users\nnn\documents\visual studio 2015\Projects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.CuentasCobrar.resources
+C:\Users\nnn\documents\visual studio 2015\Projects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.ReporteVentasClentes.resources
+C:\Users\nnn\documents\visual studio 2015\Projects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.ReporteVentasProducto.resources
+C:\Users\nnn\Desktop\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+C:\Users\nnn\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+C:\Users\nnn\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+C:\Users\nnn\Desktop\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+C:\Users\nnn\Desktop\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+C:\Users\nnn\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csprojResolveAssemblyReference.cache
+C:\Users\nnn\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Catalogo.resources
+C:\Users\nnn\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Clientes.resources
+C:\Users\nnn\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.ConfirmarPedido.resources
+C:\Users\nnn\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.CuentasCobrar.resources
+C:\Users\nnn\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Facturacion.resources
+C:\Users\nnn\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.ReporteVentasClentes.resources
+C:\Users\nnn\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.ReporteVentasProducto.resources
+C:\Users\nnn\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.RevisarPedido.resources
+C:\Users\nnn\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.RegistrarPedido.resources
+C:\Users\nnn\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.VentanaPrincipal.resources
+C:\Users\nnn\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Properties.Resources.resources
+C:\Users\nnn\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.GenerateResource.Cache
+C:\Users\helle\Desktop\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+C:\Users\helle\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+C:\Users\helle\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+C:\Users\helle\Desktop\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+C:\Users\helle\Desktop\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+C:\Users\helle\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csprojResolveAssemblyReference.cache
+C:\Users\helle\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Catalogo.resources
+C:\Users\helle\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Clientes.resources
+C:\Users\helle\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.ConfirmarPedido.resources
+C:\Users\helle\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.CuentasCobrar.resources
+C:\Users\helle\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Facturacion.resources
+C:\Users\helle\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.ReporteVentasClentes.resources
+C:\Users\helle\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.ReporteVentasProducto.resources
+C:\Users\helle\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.RevisarPedido.resources
+C:\Users\helle\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.RegistrarPedido.resources
+C:\Users\helle\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.VentanaPrincipal.resources
+C:\Users\helle\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Properties.Resources.resources
+C:\Users\helle\Desktop\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.GenerateResource.Cache
+C:\Users\helle\Source\Repos\Proyecto-2-BD\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+C:\Users\helle\Source\Repos\Proyecto-2-BD\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+C:\Users\helle\Source\Repos\Proyecto-2-BD\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
